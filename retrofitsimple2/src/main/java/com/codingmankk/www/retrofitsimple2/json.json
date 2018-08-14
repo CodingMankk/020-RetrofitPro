@@ -1,0 +1,13 @@
+{
+	"type":"EN2ZH_CN",
+	"errorCode":0,
+	"elapsedTime":0,
+	"translateResult":[
+		[
+			{
+				"src":"merry me",
+				"tgt":"我快乐"
+			}
+		]
+	]
+}
