@@ -1,0 +1,10 @@
+{
+	"status": 1,
+	"content": {
+		"from": "en-EU",
+		"to": "zh-CN",
+		"vendor": "baidu",
+		"out": "你好世界",
+		"err_no": 0
+	}
+}
