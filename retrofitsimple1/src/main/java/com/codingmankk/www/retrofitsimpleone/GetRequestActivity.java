@@ -28,7 +28,6 @@ public class GetRequestActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         initView();
-
         mBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
